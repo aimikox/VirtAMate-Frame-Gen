@@ -1,9 +1,0 @@
-[
-  {
-    "Protocol": "TCP",
-    "Port": 8085,
-    "Ref": "WorldPort",
-    "Name": "World Server Port",
-    "Description": "AzerothCore worldserver TCP port (WorldServerPort)"
-  }
-]
